@@ -69,7 +69,7 @@
 
 * Até então, todos os versionamentos ocorreram na **ramificação principal (branch `main`)**
 * Para criar uma nova branch , isto é, uma nova linha cronológica adicional/alternativa à  
-  principal que possa posteriormente se juntar à `main`, digite `gir checkout -b <nome da nova branch>`,  
+  principal que possa posteriormente se juntar à `main`, digite `git checkout -b <nome da nova branch>`,  
   assim o terminal Git sairá da branch `main`, criará uma nova como nome que desejar e entrará nela,  
   por exemplo: `git checkout -b novoBotao`  
 * Com uma nova branch criada, utilize os comando já explicados:  
