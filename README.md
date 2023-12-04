@@ -10,7 +10,7 @@
 
 # Tutorial de Git e Github na prática
 
-## Instalção Git
+## Instalação Git
 * [Link](https://git-scm.com/downloads) 
   
 ## Versionamento local do projeto
@@ -95,3 +95,17 @@
 * Desse modo, tudo o que tinha de alteração na branch novoBotao (por exemplo) se juntará à branch `main`
 
 * Para finalizar digite `git push origin main` e suba os arquivos para a branch principal do repositório remoto
+
+## Clone
+
+* Para fazer o download de um repositório remoto, seu ou de outro usuário, há duas opções:  
+* 1ª opção: clicar no botão `code` que se encontra no próprio Github e em seguida no botão  
+`download ZIP`, conforme a imagem abaixo  
+
+  <img src="img/imgClone.PNG">  
+
+* 2ª opção: utilizando o mesmo link presente na imagem acima, abra o terminal e digite `git  
+clone <link copiado do repositório remoto>`  
+**Observação**: é importante que ao clonar um repositório de sua própria conta no Github,  
+verifique qual branch no Github está como `default`, pois o **projeto clonado será aquele que  
+se encontra na branch `default`**
