@@ -118,3 +118,5 @@ perceber ao chegar no trabalho que o projeto na máquina do escritório está de
 * Para puxar **todas as alterações realizadas do repositório remoto (Github) para o seu repositório local**  
 digite `git pull`
 
+* Testando na prática o git pull!
+
