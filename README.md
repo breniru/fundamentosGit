@@ -10,7 +10,7 @@
 
 # Tutorial de Git e Github na prática
 
-## Instalção Git
+## Instalação do Git
 * [Link](https://git-scm.com/downloads) 
   
 ## Versionamento local do projeto
